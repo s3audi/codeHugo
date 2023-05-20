@@ -35,3 +35,12 @@ https://s3audi-bug-free-spoon-qwrjg7wg294qj.github.dev/
 
 git init
 git commit -m 'Değişiklik yaptık'
+
+git config --global user.name 's3audi'
+git config --global user.email s3audi@hotmail.com
+
+git add .
+
+# Eğitim ve anlatımlar
+
+https://collabtr.com/visual-studio-code-github-kullanimi/
